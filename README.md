@@ -31,5 +31,18 @@ Now you can find Ultraleap official demos in **Assets > ThirdParty > Ultraleap >
 In the previous step you created the Unity project and configure it to be used with Oculus and Ultraleap. Now you can download the code of this Git repo, copy the folders **Scenes**, **Materials**, **Prefabs** and **Scripts** and paste them into the **Assets** folder of the project.
 
 # Demo
-You can know open **PoolGame main** scene from the **Scenes** directory, interact and play with some spheres on the Pool Table. 
+You can know open **PoolGame main** scene from the **Scenes** directory.
+
+![Scene](images/20scene.png)
+
+You will find a table with some balls and a text that explains to you the demo.
+
+![Scene](images/20game.png)
+
+You can interact and play with some spheres and other little obstacles (cyliders) on the Pool Table. 
+
+![Scene](images/20action.png)
+
 By looking at you left hand you can active a menu to either reset the scene or spawn new balls at random positions.
+
+![Scene](images/20action1.png)
