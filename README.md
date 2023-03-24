@@ -43,6 +43,6 @@ You can interact and play with some spheres and other little obstacles (cyliders
 
 ![Scene](images/20action.png)
 
-By looking at you left hand you can active a menu to either reset the scene or spawn new balls at random positions.
+By looking at your left hand you can active a menu to either reset the scene or spawn new balls at random positions.
 
 ![Scene](images/20action1.png)
