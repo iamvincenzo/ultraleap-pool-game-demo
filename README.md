@@ -12,7 +12,7 @@ The project consists of:
 - Leap Motion Controller
 - Oculus Meta Quest 2
 
-## Set-up Ultraleap Project 
+## Set-up Ultraleap Unity Project 
 The first step is to create a new 3D core project in Unity. Now you can follow these steps:
 - Select **Edit > Project Settings** from Unity menu and select on the left panel **XR Plug-in Managment**. Install it and then check the **Oculus** box.
 - Attach your Leap Controller on Oculus Meta Quest 2.
