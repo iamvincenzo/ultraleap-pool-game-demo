@@ -20,8 +20,8 @@ The first step is to create a new 3D core project in Unity. Now you can follow t
 - Select **Window > Package Manager** from Unity menu and then select **Packages > Unity Registry**. Scroll down until **XR Plugin Management** and press **import**.
 - Open again **Window > Package Manager** and click the **plus** button.
 - Select **Add package from git URL** and paste this link **com.unity.xr.interaction.toolkit**.
-- Download and Install **Ultraleap Gemini** 
-- Download Unity Modules packages from **https://github.com/ultraleap/UnityPlugin/releases/**
+- Download and Install [Ultraleap Gemini](https://developer.leapmotion.com/tracking-software-download)
+- Download [Unity Modules packages](https://github.com/ultraleap/UnityPlugin/releases/)
 - Select **Asset > Import Package > Custom Package** from the Unity menu.
 - Import **Tracking.unitypackage**, **Tracking Preview.unitypackage**, **Tracking Examples.unitypackage** and **Tracking Preview Examples.unitypackage** that you just downloaded.
 
