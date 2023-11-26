@@ -1,4 +1,7 @@
 # UltraleapPoolGameDemo
+
+[![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11) [![C#](https://img.shields.io/badge/C%23-.NET%20Core%203.1%20|%20.NET%205-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/) [![Unity](https://img.shields.io/badge/Unity-2020.3.14f1-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/) [![VR](https://img.shields.io/badge/VR-Meta%20Quest%202-1CA91C?style=flat-square&logo=oculus&logoColor=white)](https://www.oculus.com/quest-2/)
+
 ## Project Description
 The project consists of:
 - download and install **Ultraleap** unity plugin;
